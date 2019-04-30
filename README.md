@@ -1,5 +1,5 @@
 
-# Example of Node.js Server with babel 7
+# Example of Node.js Server with babel 7 (latest babel version)
 
 ### Getting Start
 
